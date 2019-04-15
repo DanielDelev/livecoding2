@@ -25,5 +25,11 @@ public class Spielbrett {
 		}
 		
 	}
+	
+	public void setFigur (int i, int q) {
+		
+		spielbrett[i][q].setSpielfigur();
+		
+	}
 
 }

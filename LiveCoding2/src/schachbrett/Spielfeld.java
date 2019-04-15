@@ -12,10 +12,10 @@ class Spielfeld {
 		
 	}
 	
-	public void setSpielfigur (boolean istSchwarz, String figurTyp) {
+	public void setSpielfigur () {
 		
-		this.figur = new Spielfigur(istSchwarz, figurTyp);
+		this.figur = new Spielfigur();
 		
-	}
+	} 
 
 }
