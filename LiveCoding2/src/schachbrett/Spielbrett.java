@@ -1,4 +1,4 @@
-package schach;
+package schachbrett;
 
 public class Spielbrett {
 	

@@ -1,6 +1,8 @@
-package schach;
+package schachbrett;
 
-public class Spielfeld {
+import enums.Spielfigur;
+
+class Spielfeld {
 	
 	Spielfigur figur;
 	

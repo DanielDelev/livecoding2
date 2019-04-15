@@ -1,7 +1,4 @@
-package schach;
-
-import enums.EnumFarbe;
-import enums.EnumFigurTyp;
+package enums;
 
 public class Spielfigur {
 	
